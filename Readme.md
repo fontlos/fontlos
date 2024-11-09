@@ -6,10 +6,10 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=fontlos&repo=buaa-api"></img>
 </a> -->
 
-<div style="margin-bottom: 20px; display: flex; justify-content: space-around">
+<p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=fontlos&show_icons=true&include_all_commits=true"></img>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fontlos&layout=compact"></img>
-</div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fontlos&layout=compact" height="195px"></img>
+</p>
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fontlos/fontlos/output/github-contribution-grid-snake-dark.svg">

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="z-index:1;position:relative" width="1000" height="200" viewBox="0 0 1000 200">
+    <style>
+        text {
+            font-size: 70px;
+            font-weight: 700;
+            font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;
+        }
+    </style>
+    <g transform="translate(500, 100) scale(1, 1) translate(-500, -100)">
+        <defs>
+            <linearGradient id="linear" x1="0%" y1="0%" x2="0%" y2="100%">
+                <stop offset="0%" stop-color="#fbc2eb"/>
+                <stop offset="100%" stop-color="#a6c1ee"/>
+            </linearGradient>
+        </defs>
+        <path d="" fill="url(#linear)" opacity="0.6" >
+            <animate attributeName="d" dur="5s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1" calcmod="spline" keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1" begin="0s" values="M0 0L 0 120Q 250 160 500 130T 1000 155L 1000 0 Z;M0 0L 0 145Q 250 160 500 140T 1000 130L 1000 0 Z;M0 0L 0 165Q 250 135 500 165T 1000 130L 1000 0 Z;M0 0L 0 120Q 250 160 500 130T 1000 155L 1000 0 Z"></animate>
+        </path>
+        <path d="" fill="url(#linear)" opacity="0.9" >
+            <animate attributeName="d" dur="5s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1" calcmod="spline" keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1" begin="-2.5s" values="M0 0L 0 135Q 250 180 500 150T 1000 160L 1000 0 Z;M0 0L 0 150Q 250 120 500 120T 1000 140L 1000 0 Z;M0 0L 0 145Q 250 125 500 150T 1000 165L 1000 0 Z;M0 0L 0 135Q 250 180 500 150T 1000 160L 1000 0 Z"></animate>
+        </path>
+    </g>
+    <text text-anchor="middle" alignment-baseline="middle" x="50%" y="30%" class="text" style="fill:#f7f5f5;" stroke="#none" stroke-width="10" >
+        Hi there! This is Fontlos
+    </text>
+</svg>

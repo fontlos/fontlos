@@ -7,14 +7,14 @@
 </a> -->
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=fontlos&show_icons=true&include_all_commits=true"></img>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fontlos&layout=compact" height="195px"></img>
+    <img alt="GitHub Stats" src="./profile/stats.svg"></img>
+    <img alt="Top Langs" src="./profile/top-langs.svg" height="195px"></img>
 </p>
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fontlos/fontlos/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fontlos/fontlos/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/fontlos/fontlos/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./profile/snake.svg">
+    <img alt="Snake animation" src="./profile/snake.svg">
 </picture>
 
 ![bg](./img/background.jpg)
